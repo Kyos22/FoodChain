@@ -6,6 +6,7 @@ import avatar from '../../helpers/img/profile_small.jpg';
 import a4 from '../../helpers/img/a4.jpg';
 import Cookies from 'js-cookie';
 
+
 //css
 import '../../helpers/css/style.css';
 import '../../helpers/css/animate.css';
